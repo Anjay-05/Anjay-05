@@ -49,7 +49,7 @@ I have worked across various industries, including **retail** and **data consult
 
 ## 🤝 Let's Connect
 - LinkedIn: [Anjay Krishna](https://www.linkedin.com/in/anjay-krishna-t-u/)
-- GitHub: [Your GitHub profile link here]
+
 
 Feel free to explore my repositories where I showcase my projects in **SQL**, **Python**, and **Machine Learning**. I am open to collaborating on exciting projects and expanding my knowledge in the tech space!
 
