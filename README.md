@@ -4,8 +4,8 @@ I am a **Technical Consultant** with a passion for solving complex problems usin
 
 ## 🛠️ Skills & Expertise
 
-- **SQL**: Advanced querying, database management, and data analysis.
-- **Python**: Proficient in Python for data science, automation, and development.
+- **SQL**: Querying, database management, and data analysis.
+- **Python**: Proficient in Python for data science, data analysis and development.
 - **Pandas**: Data manipulation, wrangling, and cleaning.
 - **Machine Learning**: Developing models using libraries such as scikit-learn, TensorFlow, and more.
 - **SAP B1**: Expertise in working with SQL queries in SAP Business One.
